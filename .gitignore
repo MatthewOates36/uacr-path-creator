@@ -1,1 +1,4 @@
-/.idea/
+.idea/
+/node_modules/
+uacr-path-creator.iml
+/output/
