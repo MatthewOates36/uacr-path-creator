@@ -1,7 +1,7 @@
 {
   "name": "uacr-path-creator",
   "version": "1.0.0",
-  "description": "Path creation tool for Up-A-Creek Robotics pure pursuit paths",
+  "description": "Path creation tool for Up-A-Creek Robotics Pure Pursuit paths",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
